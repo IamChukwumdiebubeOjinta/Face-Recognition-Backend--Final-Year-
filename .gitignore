@@ -1,0 +1,4 @@
+serviceAccountKey.json
+.vscode/settings.json
+face_recognition_app/app/EncodeFile.p
+training/EncodeFile.p
